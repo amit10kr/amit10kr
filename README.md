@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit10kr" alt="amit10kr" /></a> </p>
 
-- 💬 Ask me about **Data Science Skills, Machine Learning, Python C**
+- 💬 Ask me about **Data Science Skills, Machine Learning, Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
