@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I am student pursuing Bachelor's in Computer Appliances from Institute of Information Technology and Management.**
 
-- 💬 Ask me about **Data Science Skills, Machine Learning, Python C**
+- 💬 Ask me about **Data Analysis • Python (Programming Language) • Machine Learning • Tableau • Data Science**
 
 - 📫 How to reach me **amit471kumar@gmail.com**
 
