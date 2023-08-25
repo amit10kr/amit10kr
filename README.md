@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A Data Scientist and Analytics from India</h3>
+<h3 align="center">Professional Programmer| Data Science Skills | HTML | Java | Python | C++ | C | SQL | JavaScript | Tableau | MS Office</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit10kr&label=Profile%20views&color=0e75b6&style=flat" alt="amit10kr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit10kr" alt="amit10kr" /></a> </p>
 
-- 💬 Ask me about **Data Science Skills, Machine Learning, Python
+- 🌱 I’m currently learning **I am student pursuing Bachelor's in Computer Appliances from Institute of Information Technology and Management.**
+
+- 💬 Ask me about **Data Science Skills, Machine Learning, Python C**
+
+- 📫 How to reach me **amit471kumar@gmail.com**
+
+- ⚡ Fun fact **I have experience across latest technology invention and ideas for welfare of society. One thing I believe is in "we should keep going" no matter what the problem or situation is. I have a huge interest in the visual analysis and creation. I believe I have the potential to change a lot and this is just a start!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/amit-kumar-90bb76232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-kumar-90bb76232" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit10kr&show_icons=true&locale=en" alt="amit10kr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit10kr&" alt="amit10kr" /></p>
-
-
